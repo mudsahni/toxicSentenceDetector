@@ -1,0 +1,30 @@
+#canvas {
+    /* background: #333; */
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+
+.bottom-bar {
+    display: flex;
+    flex-direction: row;
+}
+
+.bottom-bar>.submit {
+    margin-right: 10px;
+}
+
+.bottom-bar>div:last-child {
+    margin-left: auto;
+}
+
+.bottom-bar>div:active {
+    transform: scale(0.9);
+    -webkit-transform: scale(0.9);
+    -moz-transform: scale(0.9);
+    -ms-transform: scale(0.9);
+    -o-transform: scale(0.9);
+}
