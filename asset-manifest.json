@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/toxicSentenceDetector/static/css/main.abc65433.chunk.css",
-    "main.js": "/toxicSentenceDetector/static/js/main.47bf0989.chunk.js",
-    "main.js.map": "/toxicSentenceDetector/static/js/main.47bf0989.chunk.js.map",
-    "runtime-main.js": "/toxicSentenceDetector/static/js/runtime-main.73ecdb0c.js",
-    "runtime-main.js.map": "/toxicSentenceDetector/static/js/runtime-main.73ecdb0c.js.map",
-    "static/css/2.93c0d6e7.chunk.css": "/toxicSentenceDetector/static/css/2.93c0d6e7.chunk.css",
-    "static/js/2.ea7f1bea.chunk.js": "/toxicSentenceDetector/static/js/2.ea7f1bea.chunk.js",
-    "static/js/2.ea7f1bea.chunk.js.map": "/toxicSentenceDetector/static/js/2.ea7f1bea.chunk.js.map",
-    "static/js/3.24f0bf7c.chunk.js": "/toxicSentenceDetector/static/js/3.24f0bf7c.chunk.js",
-    "static/js/3.24f0bf7c.chunk.js.map": "/toxicSentenceDetector/static/js/3.24f0bf7c.chunk.js.map",
+    "main.css": "/toxicSentenceDetector/static/css/main.56c093fd.chunk.css",
+    "main.js": "/toxicSentenceDetector/static/js/main.1f6a17a8.chunk.js",
+    "main.js.map": "/toxicSentenceDetector/static/js/main.1f6a17a8.chunk.js.map",
+    "runtime-main.js": "/toxicSentenceDetector/static/js/runtime-main.8b1710c5.js",
+    "runtime-main.js.map": "/toxicSentenceDetector/static/js/runtime-main.8b1710c5.js.map",
+    "static/css/2.00b02253.chunk.css": "/toxicSentenceDetector/static/css/2.00b02253.chunk.css",
+    "static/js/2.b02bbb8f.chunk.js": "/toxicSentenceDetector/static/js/2.b02bbb8f.chunk.js",
+    "static/js/2.b02bbb8f.chunk.js.map": "/toxicSentenceDetector/static/js/2.b02bbb8f.chunk.js.map",
+    "static/js/3.9e650dc2.chunk.js": "/toxicSentenceDetector/static/js/3.9e650dc2.chunk.js",
+    "static/js/3.9e650dc2.chunk.js.map": "/toxicSentenceDetector/static/js/3.9e650dc2.chunk.js.map",
     "index.html": "/toxicSentenceDetector/index.html",
-    "static/css/2.93c0d6e7.chunk.css.map": "/toxicSentenceDetector/static/css/2.93c0d6e7.chunk.css.map",
-    "static/css/main.abc65433.chunk.css.map": "/toxicSentenceDetector/static/css/main.abc65433.chunk.css.map",
-    "static/js/2.ea7f1bea.chunk.js.LICENSE.txt": "/toxicSentenceDetector/static/js/2.ea7f1bea.chunk.js.LICENSE.txt",
+    "static/css/2.00b02253.chunk.css.map": "/toxicSentenceDetector/static/css/2.00b02253.chunk.css.map",
+    "static/css/main.56c093fd.chunk.css.map": "/toxicSentenceDetector/static/css/main.56c093fd.chunk.css.map",
+    "static/js/2.b02bbb8f.chunk.js.LICENSE.txt": "/toxicSentenceDetector/static/js/2.b02bbb8f.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/toxicSentenceDetector/static/media/outline-icons.ddae9b1b.woff",
     "static/media/jogging.16f25d6e.svg": "/toxicSentenceDetector/static/media/jogging.16f25d6e.svg",
     "static/media/non-toxic.da73c7b4.svg": "/toxicSentenceDetector/static/media/non-toxic.da73c7b4.svg",
@@ -21,10 +21,10 @@
     "static/media/toxic.e4ddd6bd.svg": "/toxicSentenceDetector/static/media/toxic.e4ddd6bd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.73ecdb0c.js",
-    "static/css/2.93c0d6e7.chunk.css",
-    "static/js/2.ea7f1bea.chunk.js",
-    "static/css/main.abc65433.chunk.css",
-    "static/js/main.47bf0989.chunk.js"
+    "static/js/runtime-main.8b1710c5.js",
+    "static/css/2.00b02253.chunk.css",
+    "static/js/2.b02bbb8f.chunk.js",
+    "static/css/main.56c093fd.chunk.css",
+    "static/js/main.1f6a17a8.chunk.js"
   ]
 }
