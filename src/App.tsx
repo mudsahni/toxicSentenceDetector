@@ -1,13 +1,10 @@
 import * as  React from 'react';
-import * as tf from '@tensorflow/tfjs'
-import * as tfvis from '@tensorflow/tfjs-vis'
-import { MnistData } from './data/data';
+import 'semantic-ui-css/semantic.min.css'
+
 
 import './App.css';
-import { Canvas } from './components/Canvas';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faEraser, faCheckSquare, faAllergies } from '@fortawesome/free-solid-svg-icons'
-import { getModel, train } from './models/mnist'
+import { Toxicity } from './components/Toxicity';
+import Running from './jogging.svg'
 
 // import { Canvas } from './components/Canvas';
 
@@ -16,7 +13,12 @@ function App() {
 
   return (
     <div>
-      <Canvas height={600} width={600}></Canvas>
+      {/* <Canvas height={600} width={600}></Canvas> */}
+      {/* <CanvasAlt /> */}
+      <Toxicity />
+      <div className='footer'>
+        Made&nbsp;<img src={Running} width={20} />&nbsp;by &nbsp; <a href="https://www.muditsahni.com" target="_blank">Mudit Sahni</a>
+      </div>
     </div>
   );
 }
